@@ -7,12 +7,14 @@
 
 3: Monitor Window/ubuntu server with Nagios 
 
+4: Monitor Remote Linux Systems With Nagios using NRPE
 
-4: Monitor MySQL server with Nagios  
+
+5: Monitor MySQL server with Nagios  
 
 
-5: Monitor with PNP4Nagios (Graphical representation of Nagios )
+6: Monitor with PNP4Nagios (Graphical representation of Nagios )
 
-6: Monitoring server on Nagios  with Slack channel alert
+7: Monitoring server on Nagios  with Slack channel alert
 
-7: Monitoring server on  Nagios  with E-mail alert
+8: Monitoring server on  Nagios  with E-mail alert
