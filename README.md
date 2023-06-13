@@ -5,7 +5,7 @@
 2: Monitor Localhost with Nagios
 
 
-3: Monitor Window server with Nagios 
+3: Monitor Window/ubuntu server with Nagios 
 
 
 4: Monitor MySQL server with Nagios  
