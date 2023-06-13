@@ -13,7 +13,7 @@
 5: Monitor a linux box and mysql 5.7 server database with Nagios  
 
 
-6: Monitor with PNP4Nagios (Graphical representation of Nagios )
+6: Monitor with PNP4Nagios (Graphical representation of  services/servers on Nagios )
 
 7: Monitoring server on Nagios  with Slack channel alert
 
