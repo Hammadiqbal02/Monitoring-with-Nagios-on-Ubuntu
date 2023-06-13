@@ -12,3 +12,7 @@
 
 
 5: Monitor with PNP4Nagios (Graphical representation of Nagios )
+
+6: Monitoring server on Nagios  with Slack channel alert
+
+7: Monitoring server on  Nagios  with E-mail alert
